@@ -3,7 +3,6 @@
 ### Full-Stack & Backend Software Engineer
 **Remote (EST / UTC-4)** • English (Professional B2) & Spanish (Native)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-oliveira-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jose.oliveira.developer@gmail.com)
 
 ---
 
@@ -35,6 +34,5 @@ Results-driven Software Engineer with nearly **3 years of production experience*
 
 ---
 
-### 📬 Get in Touch
+### 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/jose-oliveira-dev](https://linkedin.com/in/jose-oliveira-dev)
-- **Email:** [jose.oliveira.developer@gmail.com](mailto:jose.oliveira.developer@gmail.com)
