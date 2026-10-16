@@ -1,7 +1,7 @@
 # Hi, I'm José Oliveira 👋
 
 ### Full-Stack & Backend Software Engineer
-**Remote (EST / UTC-4)** · Fluent in English (B2) & Spanish (Native)  
+**Remote (EST / UTC-4)** • English (Professional B2) & Spanish (Native)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-oliveira-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jose.oliveira.developer@gmail.com)
 
@@ -12,7 +12,7 @@ Results-driven Software Engineer with nearly **3 years of production experience*
 
 - 🎓 **Academic Excellence:** Graduated with the **Highest GPA of Class LXXIX / Ranked #1 GPA** in Electronic and Computer Engineering.
 - 💳 **Production Financial Pipelines:** Built and operated idempotent Stripe webhook processing pipelines with zero dropped events and sub-minute background workers reconciling multi-channel calendar state with zero double-bookings across 1.5+ years of live production.
-- ⚡ **AI & Real-Time Architectures:** Designed production RAG systems with FastAPI, HyDE query expansion, vector embeddings, and modular frontend architectures (SvelteKit, Vue, React).
+- 🤖 **AI & Real-Time Architectures:** Designed production RAG systems with FastAPI, HyDE query expansion, vector embeddings, and modular frontend architectures (SvelteKit, Vue, React).
 
 ---
 
@@ -27,14 +27,14 @@ Results-driven Software Engineer with nearly **3 years of production experience*
 
 ---
 
-### 🌟 Featured Repositories
+### 📌 Featured Repositories
 
-#### 🔹 [rag-system](https://github.com/josdiaz-tech/rag-system)
+#### 🔍 [rag-system](https://github.com/josdiaz-tech/rag-system)
 > **Production-ready RAG system built with FastAPI, HyDE, ChromaDB, and SvelteKit.**  
-> Features semantic search, hypothetical document embeddings (HyDE) for intent alignment, persistent vector indexing, and a modern responsive user interface.
+> Features semantic search, hypothetical document embeddings (HyDE) for intent alignment, persistent vector indexing, and a modern responsive user interface. Containerized with Docker Compose and covered with unit test suites.
 
 ---
 
-### 📫 Get in Touch
+### 📬 Get in Touch
 - **LinkedIn:** [linkedin.com/in/jose-oliveira-dev](https://linkedin.com/in/jose-oliveira-dev)
 - **Email:** [jose.oliveira.developer@gmail.com](mailto:jose.oliveira.developer@gmail.com)
